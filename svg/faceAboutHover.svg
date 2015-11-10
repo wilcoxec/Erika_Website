@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 600" style="enable-background:new 0 0 1000 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	
+	.st1{
+		fill:#CEA08B;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st2{
+		fill:#CD9E86;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st3{
+		fill:#BD8F71;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st4{
+		fill:#C08F74;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+	}
+	
+	.st5{
+		fill:#B78A6E;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st6{
+		fill:#C29478;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st7{
+		fill:#BE9176;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st8{
+		fill:#B6886E;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st9{
+		fill:#B78E74;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st10{
+		fill:#B78C72;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+	}
+
+	.st11{
+		fill:#BD9077;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st12{
+		fill:#8B6350;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st13{
+		fill:#8B624D;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st14{
+		fill:#AB8368;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st15{
+		fill:#AA8167;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st16{
+		fill:#A27E62;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st17{
+		fill:#A88067;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st18{
+		fill:#A27A63;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st19{
+		fill:#D7AA91;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st20{
+		fill:#D6A990;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st21{
+		fill:#B78B70;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st22{
+		fill:#C5967B;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st23{
+		fill:#C09378;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st24{
+		fill:#B88C71;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st25{
+		fill:#9A705A;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st26{
+		fill:#986E58;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st27{
+		fill:#A3765D;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+
+	}
+	
+	.st28{
+		fill:#AA7C65;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st29{
+		fill:#AF816C;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st30{
+		fill:#A97C63;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st31{
+		fill:#C6947D;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st32{
+		fill:#CB9881;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st33{
+		fill:#D4A58B;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st34{
+		fill:#B0856B;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st35{
+		fill:#A57C63;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st36{
+		fill:#A87D63;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st37{
+		fill:#C79D85;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st38{
+		fill:#CD9C86;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st39{
+		fill:#D2A38C;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st40{
+		fill:#DBB199;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st41{
+		fill:#D8AF97;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+
+	}
+	
+	.st42{
+		fill:#CEA387;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st43{
+		fill:#CBA085;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st44{
+		fill:#BC8D6F;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st45{
+		fill:#BC8E70;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st46{
+		fill:#B4886D;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st47{
+		fill:#B78A71;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st48{
+		fill:#B6896E;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+	}
+	
+	.st49{
+		fill:#AC8165;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st50{
+		fill:#CEA48C;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st51{
+		fill:#BB9077;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st52{
+		fill:#BD9278;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st53{
+		fill:#BE9279;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+
+	}
+	
+	.st54{
+		fill:#A97F69;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+
+	}
+	
+	.st55{
+		fill:#A47B61;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st56{
+		fill:#A57C60;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st57{
+		fill:#A48065;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st58{
+		fill:#CCA790;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st59{
+		fill:#B89481;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st60{
+		fill:#C2A08C;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st61{
+		fill:#BF967C;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+	}
+	
+	.st62{
+		fill:#C1A08A;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+	}
+	
+	.st63{
+		fill:#AC7F68;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st64{
+		fill:#AA8068;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st65{
+		fill:#BEA284;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st66{
+		fill:#AB8673;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st67{
+		fill:#A58273;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st68{
+		fill:#786160;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st69{
+		fill:#886958;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st70{
+		fill:#886C5F;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st71{
+		fill:#B6937C;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+
+	}
+	
+	.st72{
+		fill:#7F6052;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st73{
+		fill:#A98064;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st74{
+		fill:#C59C82;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st75{
+		fill:#8C6B53;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st76{
+		fill:#6F5755;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st77{
+		fill:#A87F6B;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st78{
+		fill:#A57E61;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st79{
+		fill:#A38065;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+
+	}
+	
+	.st80{
+		fill:#A97F67;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st81{
+		fill:#C0A189;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st82{
+		fill:#A58375;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st83{
+		fill:#A28171;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st84{
+		fill:#60464D;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st85{
+		fill:#886B60;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st86{
+		fill:#876C5E;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+
+	}
+	
+	.st87{
+		fill:#B7947D;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st88{
+		fill:#8D674F;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st89{
+		fill:#8C6855;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st90{
+		fill:#A27A61;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st91{
+		fill:#73584C;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+
+	}
+	
+	.st92{
+		fill:#816353;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st93{fill:none;stroke:#A51189;stroke-miterlimit:10;}
+	
+	.st94{
+		fill:#876650;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st95{
+		fill:#7C5C49;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st96{
+		fill:#754B4F;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st97{
+		fill:#9E775C;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st98{
+		fill:#C6997E;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+
+	}
+	
+	.st99{
+		fill:#AA8062;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st100{
+		fill:#926C52;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st101{
+		fill:#9D7259;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st102{
+		fill:#855F4E;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st103{
+		fill:#B58168;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st104{
+		fill:#CBA086;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st105{
+		fill:#B8886E;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+
+	}
+	
+	.st106{
+		fill:#9A6854;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st107{
+		fill:#815F4F;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st108{
+		fill:#CEA48D;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st109{
+		fill:#C89D83;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st110{
+		fill:#9E775A;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+
+	}
+	
+	.st111{
+		fill:#AB8063;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+
+	}
+	
+	.st112{
+		fill:#825D4B;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+
+		}
+	
+	.st113{
+		fill:#BA876E;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st114{
+		fill:#CCA187;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st115{
+		fill:#9A6A57;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st116{
+		fill:#A67B5F;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st117{
+		fill:#BA8E71;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+
+	}
+	
+	.st118{
+		fill:#A67D61;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st119{
+		fill:#9D7057;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st120{
+		fill:#B2876A;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st121{
+		fill:#BB947E;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st122{
+		fill:#B88E71;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st123{
+		fill:#9C6E58;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st124{
+		fill:#A1785C;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st125{
+		fill:#A47C5E;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st126{
+		fill:#A47C5F;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st127{
+		fill:#795B47;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st128{
+		fill:#84644A;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st129{
+		fill:#D2A78D;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st130{
+		fill:#CDA48B;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+
+	}
+
+	.st131{
+		fill:#7A5C48;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st132{
+		fill:#6D5442;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st133{
+		fill:#BE8F71;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st134{
+		fill:#D5AA8E;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+	}
+	
+	.st135{
+		fill:#9B5E54;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st136{
+		fill:#A57271;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st137{
+		fill:#994D4B;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st138{
+		fill:#A5605B;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st139{
+		fill:#AA6861;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+
+	}
+	
+	.st140{
+		fill:#844C46;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st141{
+		fill:#A07873;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st142{
+		fill:#91695B;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st143{
+		fill:#8C7870;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st144{
+		fill:#A8988F;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st145{
+		fill:#352A27;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st146{
+		fill:#382B19;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st147{
+		fill:#382A25;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st148{
+		fill:#3F3633;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st149{
+		fill:#211A11;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st150{
+		fill:#2A2A25;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st151{
+		fill:#28201D;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st152{
+		fill:#493A35;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st153{
+		fill:#7A6B66;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+
+	}
+	
+	.st154{
+		fill:#56423D;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st155{
+		fill:#8F6556;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st156{
+		fill:#8A776C;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st157{
+		fill:#483933;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st158{
+		fill:#7A6D67;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+
+	}
+	
+	.st159{
+		fill:#604137;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st160{
+		fill:#4C3F35;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st161{
+		fill:#332820;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st162{
+		fill:#3F3329;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st163{
+		fill:#51443A;
+	    -webkit-animation: moveRight 15s ease infinite;
+		animation: moveRight 15s ease infinite;
+	}
+	
+	.st164{
+		fill:#3A3029;
+	    -webkit-animation: moveLeft 15s ease infinite;
+		animation: moveLeft 15s ease infinite;
+	}
+	
+	.st165{
+		fill:#5B3E2F;
+	    -webkit-animation: moveUp 15s ease infinite;
+		animation: moveUp 15s ease infinite;
+	}
+	
+	.st166{
+		fill:#47392E;
+	    -webkit-animation: moveDown 15s ease infinite;
+		animation: moveDown 15s ease infinite;
+
+	}
+
+<!-- 	.st167{display:inline;fill:#AA816A;}
+	.st168{display:inline;fill:#BC927A;}
+	.st169{display:inline;fill:#D1A995;}
+	.st170{display:inline;fill:#DDB6A2;}
+	.st171{display:inline;fill:#C99C85;}
+	.st172{display:inline;fill:#775446;}
+	.st173{display:inline;fill:#9B6654;}
+	.st174{display:inline;fill:#775043;}
+	.st175{display:inline;fill:#77584B;}
+	.st176{display:inline;fill:#936352;}
+	.st177{display:inline;fill:#89685B;}
+	.st178{display:inline;fill:#DBAD93;}
+	.st179{display:inline;fill:#E2BAA6;}
+	.st180{display:inline;fill:#D1A793;}
+	.st181{display:inline;fill:#BC886C;}
+	.st182{display:inline;fill:#99715B;}
+	.st183{display:inline;fill:#AD8873;}
+	.st184{display:inline;fill:#AA7C68;}
+	.st185{display:inline;fill:#D3A998;}
+	.st186{display:inline;fill:#84644F;}
+	.st187{display:inline;fill:#A3745D;}
+	.st188{display:inline;fill:#89664E;}
+	.st189{display:inline;fill:#C49E90;}
+	.st190{display:inline;fill:#AD8366;}
+	.st191{display:inline;fill:#9E7B63;}
+	
+	.st192{display:inline;fill:#8C6E5A;} -->
+
+
+
+
+	@-webkit-keyframes moveDown {
+	    50% {
+	    -webkit-transform: translate(0px,55px);
+	    -moz-transform: translate(0px,55px);
+	    -o-transform: translate(0px,55px);
+	    -ms-transform: translate(0px,55px);
+	    transform: translate(0px,55px);
+	    }
+	}
+
+	@keyframes moveDown {
+	   50% { 
+	    -webkit-transform: translate(0px,55px);
+	    -moz-transform: translate(0px,55px);
+	    -o-transform: translate(0px,55px);
+	    -ms-transform: translate(0px,-5px);
+	    transform: translate(0px,55px);
+	    }
+	}
+
+
+	@-webkit-keyframes moveUp {
+	    50% {
+	    -webkit-transform: translate(0px,-55px);
+	    -moz-transform: translate(0px,-55px);
+	    -o-transform: translate(0px,-55px);
+	    -ms-transform: translate(0px,-55px);
+	    transform: translate(0px,-55px);
+	    }
+	}
+
+	@keyframes moveUp {
+	   50% { 
+	    -webkit-transform: translate(0px,-55px);
+	    -moz-transform: translate(0px,-55px);
+	    -o-transform: translate(0px,-55px);
+	    -ms-transform: translate(0px,-55px);
+	    transform: translate(0px,-55px);
+	    }
+	}
+
+
+	@-webkit-keyframes moveLeft {
+	    50% {
+	    -webkit-transform: translate(-55px,0px);
+	    -moz-transform: translate(-55px,0px);
+	    -o-transform: translate(-55px,0px);
+	    -ms-transform: translate(-55px,0px);
+	    transform: translate(-55px,0px);
+	    }
+	}
+
+	@keyframes moveLeft {
+	   50% { 
+	    -webkit-transform: translate(-55px,0px);
+	    -moz-transform: translate(-55px,0px);
+	    -o-transform: translate(-55px,0px);
+	    -ms-transform: translate(-55px,0px);
+	    transform: translate(-55px,0px);
+	    }
+	}
+
+	@-webkit-keyframes moveRight {
+	    50% {
+	    -webkit-transform: translate(55px,0px);
+	    -moz-transform: translate(55px,0px);
+	    -o-transform: translate(55px,0px);
+	    -ms-transform: translate(55px,0px);
+	    transform: translate(55px,0px);
+	    }
+	}
+
+	@keyframes moveRight {
+	   50% { 
+	    -webkit-transform: translate(55px,0px);
+	    -moz-transform: translate(55px,0px);
+	    -o-transform: translate(55px,0px);
+	    -ms-transform: translate(55px,0px);
+	    transform: translate(55px,0px);
+	    }
+	}
+
+</style>
+<g id="Layer_1" class="st0">
+	
+		<image style="display:inline;overflow:visible;" width="1434" height="874" xlink:href="bg_lowpoly.jpg"  transform="matrix(1 0 0 1 -385 -240)">
+	</image>
+</g>
+<g id="face">
+	<polygon class="st1" points="491,367 516.3,381.3 508.3,346 	"/>
+	<polygon class="st2" points="523.3,346 542,367.7 516.3,381.3 	"/>
+	<polygon class="st3" points="516.3,331.7 523.3,346 508.3,346 	"/>
+	<polygon class="st4" points="515.8,375 521.7,346 508.3,346 	"/>
+	<polygon class="st5" points="488.7,329.7 491,367 507,344.3 	"/>
+	<polygon class="st6" points="523.3,344 542,329.7 542,367.7 	"/>
+	<polygon class="st7" points="561.7,355.7 542,329.7 542,367.7 	"/>
+	<polygon class="st8" points="486.2,329.7 471,357 491,367 	"/>
+	<polygon class="st9" points="469,358.3 432.3,396.3 491,369.3 	"/>
+	<polygon class="st10" points="544,367.7 561.7,358.3 597.7,394.3 	"/>
+	<polygon class="st11" points="572.7,305.7 561.7,355.7 600,394.3 	"/>
+	<polygon class="st12" points="501.3,324 486.2,315.3 473.7,329.7 	"/>
+	<polygon class="st13" points="532.7,325 542,315.3 556.7,320.2 	"/>
+	<polygon class="st14" points="515.8,326.3 521.7,340.7 539.3,328 	"/>
+	<polygon class="st15" points="513.3,326.3 491,328.3 507,340.7 	"/>
+	<polygon class="st16" points="491,315.3 505.7,325 515.8,320.2 	"/>
+	<polygon class="st17" points="516.5,322.5 530.3,325 505.7,325 	"/>
+	<polygon class="st18" points="518,320.2 530.3,325 542,315.3 	"/>
+	<polygon class="st19" points="516.3,298 515.8,320.2 496.3,285 	"/>
+	<polygon class="st20" points="536.6,285 516.3,298 515.8,320.2 	"/>
+	<polygon class="st21" points="550.2,293.7 518,318.7 544,315.3 	"/>
+	<polygon class="st22" points="536.6,285 550.2,293.7 518,318.7 	"/>
+	<polygon class="st23" points="494.8,285 481,293.7 515,318.7 	"/>
+	<polygon class="st24" points="481,296.7 487.5,313.7 515,318.7 	"/>
+	<polygon class="st25" points="460,302.6 473.7,329.7 487.5,313.7 	"/>
+	<polygon class="st26" points="546.7,315.3 558.3,318.7 572.3,304 	"/>
+	<polygon class="st27" points="544,326.3 559.5,352.8 558.3,320.2 	"/>
+	<polygon class="st28" points="572.7,305.7 561.7,355.7 558.3,320.2 	"/>
+	<polygon class="st29" points="457.8,305.7 471,357 473.7,329.7 	"/>
+	<polygon class="st30" points="486.2,329.7 473.7,329.7 471,357 	"/>
+	<polygon class="st31" points="516.3,268 498,253 496.3,283.7 	"/>
+	<polygon class="st32" points="518,268.3 534.1,253 536.6,285 	"/>
+	<polygon class="st33" points="516.3,270.7 497.8,285 516.3,298 536.6,285 	"/>
+	<polygon class="st34" points="563,277.3 534.1,253 536.6,285 550.2,293.7 	"/>
+	<polygon class="st34" points="498,253 469,278.7 483.5,292.1 496.3,283.7 	"/>
+	<polygon class="st35" points="465.8,279 452.3,283.7 460,302.6 487.5,313.7 478.6,290.7 	"/>
+	<polygon class="st36" points="563,277.3 580.8,284.3 572.3,304 544,315.3 550.2,293.7 	"/>
+	<polygon class="st11" points="456.3,307.7 432.3,396.3 469,358.3 	"/>
+	<polygon class="st37" points="585,284.3 615.3,287.7 577,301.8 	"/>
+	<polygon class="st38" points="498,253 506.3,206.3 516.3,268 	"/>
+	<polygon class="st39" points="527.3,206.3 516.3,268 534.1,250.7 	"/>
+	<polygon class="st40" points="515,129 506.3,206.3 527.3,206.3 	"/>
+	<polygon class="st41" points="507.2,208 527,208 516.3,261.3 	"/>
+	<polygon class="st42" points="503,126.7 506.3,199 513.7,126.7 	"/>
+	<polygon class="st43" points="517.2,126.7 529.7,129 527.3,202.7 	"/>
+	<polygon class="st44" points="532.3,129 563,129 529.7,179.7 	"/>
+	<polygon class="st45" points="471.7,129 500,126.7 505.4,179.7 	"/>
+	<polygon class="st46" points="503.4,181 481,196 503.4,210.7 	"/>
+	<polygon class="st46" points="530,183 528,210.7 548.5,195.8 	"/>
+	<polygon class="st47" points="530.3,213.3 565.5,226 536.6,250.3 	"/>
+	<polygon class="st48" points="503,213.3 469,225.3 496.3,250.3 	"/>
+	<polygon class="st49" points="465.8,228 469.9,274.8 496.3,253 	"/>
+	<polygon class="st49" points="565.5,228 536.6,253 563,275.5 	"/>
+	<polygon class="st50" points="597.7,257 580.8,282.3 619,287.7 	"/>
+	<polygon class="st51" points="567,228 594.3,257 567,275.5 	"/>
+	<polygon class="st52" points="565.5,277.3 580.8,282.3 597.7,257 	"/>
+	<polygon class="st51" points="433.7,255 463.3,228 469.9,274.8 	"/>
+	<polygon class="st53" points="436.8,259 453.3,280.3 469.9,274.8 	"/>
+</g>
+<g id="face2">
+	<polygon class="st54" points="548.5,195.8 565.5,226 528,210.7 	"/>
+	<polygon class="st55" points="550.2,175.2 548.5,195.8 529.7,179.7 	"/>
+	<polygon class="st56" points="563,129 550.2,175.2 529.7,179.7 	"/>
+	<polygon class="st57" points="583.7,139.7 550.2,175.2 563,129 	"/>
+	<polygon class="st58" points="567,224.7 610.5,213.3 597.7,257 	"/>
+	<polygon class="st59" points="587.2,202.7 551.8,195.8 566.9,222.7 	"/>
+	<polygon class="st60" points="590.3,204.3 609.2,210.9 569.5,222.7 	"/>
+	<polygon class="st61" points="650.5,213.3 686,235.2 599.9,255.7 	"/>
+	<polygon class="st62" points="612.4,213.5 650.5,213.3 600,253 	"/>
+	<polygon class="st63" points="678.3,204.3 710.7,218 686,235.2 	"/>
+	<polygon class="st64" points="684,231.8 676,206.3 654.2,213.3 	"/>
+	<polygon class="st65" points="587.2,185.5 589.4,202.7 551.8,194.1 563,188.8 	"/>
+	<polygon class="st66" points="589.4,185.8 605.2,188.8 610.5,210.9 592.2,202.7 	"/>
+	<polygon class="st67" points="609.2,188.8 648.3,210.9 612.4,210.9 	"/>
+	<polygon class="st68" points="619,192 641,187.3 635,199.8 	"/>
+	<polygon class="st69" points="644.4,188.8 676,204.3 652,210.9 	"/>
+	<polygon class="st70" points="642.5,190.7 648.3,208 635,199.8 	"/>
+	<polygon class="st71" points="551.8,174.3 563,187.3 551.8,194.1 	"/>
+	<polygon class="st72" points="650.5,187.3 679.8,168.8 710.7,216 	"/>
+	<polygon class="st66" points="553.7,173.4 596.2,162 565.5,184.2 	"/>
+	<polygon class="st57" points="557.4,169.7 585.3,142.3 596.2,159.2 	"/>
+	<polygon class="st44" points="588.8,139.7 597.7,157.7 652.6,130.7 	"/>
+	<polygon class="st61" points="635,144.2 654.2,156 654.2,132.3 	"/>
+	<polygon class="st73" points="656.5,156 679.8,162.8 656.5,126.7 	"/>
+	<polygon class="st74" points="660.2,125.3 688.7,123.7 682.3,162.8 	"/>
+	<polygon class="st75" points="710.7,213.5 682.3,168.8 714.3,156 	"/>
+	<polygon class="st76" points="691.7,123.7 714.3,153.2 684,164.7 	"/>
+	<polygon class="st77" points="482.3,194.2 465.4,224.4 502.9,209.1 	"/>
+	<polygon class="st55" points="480.7,173.6 482.3,194.2 501.2,178.1 	"/>
+	<polygon class="st78" points="467.9,127.4 480.7,173.6 501.2,178.1 	"/>
+	<polygon class="st79" points="447.2,138.1 480.7,173.6 467.9,127.4 	"/>
+	<polygon class="st58" points="463.9,223.1 420.4,211.8 433.2,255.4 	"/>
+	<polygon class="st59" points="443.6,201.1 479.1,194.2 464,221.1 	"/>
+	<polygon class="st60" points="440.6,202.8 421.6,209.3 461.4,221.1 	"/>
+	<polygon class="st61" points="380.4,211.8 344.9,233.6 431,254.1 	"/>
+	<polygon class="st62" points="418.5,211.9 380.4,211.8 430.9,251.4 	"/>
+	<polygon class="st80" points="346.9,230.2 354.9,204.8 376.7,211.8 	"/>
+	<polygon class="st81" points="443.6,183.9 441.5,201.1 479.1,192.5 467.9,187.2 	"/>
+	<polygon class="st82" points="441.5,184.2 425.6,187.2 420.4,209.3 438.6,201.1 	"/>
+	<polygon class="st83" points="421.6,187.2 382.6,209.3 418.5,209.3 	"/>
+	<polygon class="st84" points="411.9,190.4 389.9,185.8 395.9,198.2 	"/>
+	<polygon class="st85" points="386.5,187.2 354.9,202.8 378.9,209.3 	"/>
+	<polygon class="st86" points="388.4,189.1 382.6,206.4 395.9,198.2 	"/>
+	<polygon class="st87" points="479.1,172.7 467.9,185.8 479.1,192.5 	"/>
+	<polygon class="st77" points="477.2,171.8 434.7,160.4 465.4,182.6 	"/>
+	<polygon class="st88" points="473.5,168.1 445.6,140.8 434.7,157.7 	"/>
+	<polygon class="st45" points="442.1,138.1 433.2,156.1 378.3,129.1 	"/>
+	<polygon class="st78" points="395.9,142.6 376.7,154.4 376.7,130.8 	"/>
+	<polygon class="st73" points="374.4,154.4 351.1,161.2 374.4,125.1 	"/>
+	<polygon class="st89" points="342.7,230.2 301,209.3 298,162.8 	"/>
+	<polygon class="st90" points="346.9,221.1 351.5,202.7 304,160.5 	"/>
+	<polygon class="st91" points="384.7,185.8 350,168.2 353.5,201.1 	"/>
+	<polygon class="st92" points="347.3,168.1 306.8,160.4 351.5,201.1 	"/>
+	<polygon class="st88" points="372.2,125.1 346.9,123.5 346.9,162.8 	"/>
+	<path class="st93" d="M308,130.7"/>
+	<polygon class="st94" points="298,156.1 344.9,165.8 308,130.7 	"/>
+	<polygon class="st95" points="311.7,130.8 344.9,125.1 344.9,162 	"/>
+	<polygon class="st96" points="694.5,123.7 714.3,150.2 721,129 	"/>
+</g>
+<g id="left_face">
+	<polygon class="st97" points="430.3,400.3 396.7,460 437.7,495 	"/>
+	<polygon class="st98" points="453.3,307.7 404.3,352 432.3,396.3 	"/>
+	<polygon class="st99" points="404.3,355.7 395,459 430.7,398.7 	"/>
+	<polygon class="st100" points="400.7,352.8 339.7,384.3 395,457.7 	"/>
+	<polygon class="st101" points="356.7,313.7 339.7,381.3 402.7,350 	"/>
+	<polygon class="st102" points="314.3,270.7 337.7,377.3 355.7,311.3 	"/>
+	<polygon class="st103" points="347.3,238.3 412.8,288 355.7,311.3 	"/>
+	<polygon class="st37" points="417.2,287.7 452.3,283.7 456.3,307.7 	"/>
+	<polygon class="st104" points="412.8,289.7 404.3,348.7 450.7,307.7 	"/>
+	<polygon class="st105" points="410.3,289.7 356.7,313.7 404.3,348.7 	"/>
+	<polygon class="st106" points="314.3,268.3 344.7,236.7 355.7,311.3 	"/>
+	<polygon class="st107" points="301,213.3 314.3,265.3 342.7,235 	"/>
+	<polygon class="st108" points="432.3,257 415,287.7 452.3,282 	"/>
+	<polygon class="st109" points="428.8,257 347.3,236.7 412.8,286.3 	"/>
+</g>
+<g id="right_face">
+	<polygon class="st110" points="601.7,400.3 635,458.7 593,495.7 	"/>
+	<polygon class="st111" points="628,352 636.7,459 601.3,396.7 	"/>
+	<polygon class="st100" points="693,381.7 639.3,455 628,352 	"/>
+	<polygon class="st98" points="574,302 628,352 600,394.3 	"/>
+	<polygon class="st101" points="630,350 674,311.3 693,381.7 	"/>
+	<polygon class="st112" points="676,311.3 717,272.6 693,379 	"/>
+	<polygon class="st113" points="619,287.7 674,311.3 628,352 	"/>
+	<polygon class="st114" points="616.7,289.7 577,301.8 628,352 	"/>
+	<polygon class="st115" points="686,236.3 710,220 717,270.7 	"/>
+	<polygon class="st106" points="686,239.7 674,311.3 717,270.7 	"/>
+	<polygon class="st103" points="684,238.3 624.3,287.7 672,310.5 	"/>
+	<polygon class="st109" points="601,255.7 684,236.7 621.7,287.7 	"/>
+</g>
+<g id="bottom_face">
+	<polygon class="st97" points="439.3,495 476.3,515.7 493.7,486.3 	"/>
+	<polygon class="st116" points="516.3,515.7 493.7,486.3 476.3,515.7 	"/>
+	<polygon class="st116" points="555,515.7 539.3,486.3 516.3,515.7 	"/>
+	<polygon class="st117" points="493.7,486.3 539.3,486.3 516.3,515.7 	"/>
+	<polygon class="st97" points="593,495.7 542,486.3 555,515.7 	"/>
+	<polygon class="st118" points="558.3,443.7 600,398.7 593,493 	"/>
+	<polygon class="st119" points="530.3,437 570,431 558.3,443.7 	"/>
+	<polygon class="st120" points="556.7,445.8 539.3,484.7 593,495.7 	"/>
+	<polygon class="st120" points="516.5,441 539.3,484.7 556.7,445.8 	"/>
+	<polygon class="st121" points="513.3,441 496.3,484.7 539.3,484.7 	"/>
+	<polygon class="st122" points="476.3,443.7 513.3,441 493.7,486.3 	"/>
+	<polygon class="st120" points="474.7,445.8 439.3,495 491,486.3 	"/>
+	<polygon class="st123" points="471,431 501.3,439 476.3,443.7 	"/>
+	<polygon class="st124" points="439.3,447.7 476.3,443.7 466.5,431 	"/>
+	<polygon class="st125" points="434.3,447.7 439.3,493 472.3,445.8 	"/>
+	<polygon class="st126" points="432.3,398.7 463.3,429 436,447.6 	"/>
+</g>
+<g id="forehead">
+	<polygon class="st127" points="721,121.3 684,97.3 734.5,71 	"/>
+	<polygon class="st73" points="678.3,94 630,96.1 660.2,42 	"/>
+	<polygon class="st128" points="671.2,37.5 682.3,91 737.5,55 	"/>
+	<polygon class="st129" points="473.5,123.5 513.7,126.7 451.8,34.5 	"/>
+	<polygon class="st130" points="523.4,123.5 563,125.1 601,64.2 	"/>
+	<polygon class="st74" points="583.7,103.7 626.2,96.1 604.2,67.5 	"/>
+	<polygon class="st3" points="605.2,56 626.2,88.5 656.5,34.5 	"/>
+	<polygon class="st129" points="465.8,111.9 450.7,46 425,79 	"/>
+	<polygon class="st74" points="453.3,110.1 417.2,79 406.8,98.7 	"/>
+	<polygon class="st131" points="311.7,123.5 344.9,98.7 298,64.2 	"/>
+	<polygon class="st132" points="295.5,80.6 295.5,145.2 308,123.5 	"/>
+	<polygon class="st73" points="404.3,96.1 359.6,93.9 389.2,28.5 	"/>
+	<polygon class="st88" points="301,52 351.5,96.1 378.3,37.5 	"/>
+	<polygon class="st133" points="395.8,31 406.8,85.6 443.6,42 	"/>
+	<polygon class="st134" points="525.2,113.8 594.3,62.3 529.7,61.5 	"/>
+	<polygon class="st134" points="516.3,117.2 523.4,61.5 471.7,53 	"/>
+</g>
+<g id="lips">
+	<polygon class="st135" points="432.3,398.7 491,371 491,400.3 	"/>
+	<polygon class="st136" points="493.7,371 515,381.7 493.7,400.3 	"/>
+	<polygon class="st136" points="518,381.7 542,400.3 542,371 	"/>
+	<polygon class="st135" points="544,371 597.7,398.7 544,403.5 	"/>
+	<polygon class="st137" points="494.8,403.5 515.8,385.7 515,400.3 	"/>
+	<polygon class="st137" points="517.2,385.7 539.3,403.5 517.8,398.7 	"/>
+	<polygon class="st138" points="493.7,405.5 504.3,439.3 515,402 	"/>
+	<polygon class="st138" points="517.1,402 530.3,437 539.3,405.2 	"/>
+	<polygon class="st139" points="515.8,405.2 507,439.3 529.2,441 	"/>
+	<polygon class="st140" points="542,405.5 534.1,434.7 594.3,400.3 	"/>
+	<polygon class="st140" points="488.7,403.5 501.3,437 434.3,400.3 	"/>
+	<polygon class="st141" points="539.3,434.7 567,431 594.3,400.3 	"/>
+	<polygon class="st141" points="501.3,439 463.3,429 434.3,400.3 	"/>
+</g>
+<g id="eyes">
+	<polygon class="st142" points="565.5,185.8 579.2,174.5 587.2,183 	"/>
+	<polygon class="st143" points="581.6,173 596.2,164.7 587.2,183 	"/>
+	<polygon class="st144" points="597.7,164.7 604.2,185.8 588.9,183 	"/>
+	<polygon class="st145" points="600,162.8 610.5,164.7 605.2,184 	"/>
+	<polygon class="st145" points="612.5,164.7 617.2,175.2 607.5,185.8 	"/>
+	<polygon class="st146" points="612.4,162.8 628,159.2 619,174.5 	"/>
+	<polygon class="st147" points="628,162.8 635,181 621.8,188.8 	"/>
+	<polygon class="st148" points="626.2,164.7 609.2,185.8 620.2,188.8 	"/>
+	<polygon class="st149" points="631.2,159.2 642.5,165.5 636.9,180.1 	"/>
+	<polygon class="st150" points="636.9,159.2 652,159.2 644.4,164.7 	"/>
+	<polygon class="st151" points="599.9,160.8 630,145.5 652,157.8 626.2,157.2 609.2,162 	"/>
+	<polygon class="st152" points="654.2,159.2 679.8,164.7 658.2,178.2 	"/>
+	<polygon class="st153" points="653,162 644.4,185.8 656.5,179.7 	"/>
+	<polygon class="st154" points="650.5,162.8 642.5,166.9 642.5,185.8 	"/>
+	<polygon class="st155" points="467.8,185.2 453.3,174 447.8,183 	"/>
+	<polygon class="st156" points="435.2,164.7 446,183 451.8,172.8 	"/>
+	<polygon class="st144" points="432.3,165.8 427.5,186.2 445.8,185.2 	"/>
+	<polygon class="st145" points="421.8,164.7 425.8,183 430.5,165.8 	"/>
+	<polygon class="st148" points="419.2,165.8 410.3,187.5 426.1,187.5 	"/>
+	<polygon class="st151" points="404.3,160.5 411.8,176 417.2,164.7 	"/>
+	<polygon class="st147" points="402.8,165.8 410.8,178.2 408.2,186.2 	"/>
+	<polygon class="st149" points="401.2,169.8 395.8,183 405.8,186.2 	"/>
+	<polygon class="st146" points="389.8,165.8 394.8,178 402.8,160.5 	"/>
+	<polygon class="st150" points="378,159.2 400.8,159.2 388.1,164.7 	"/>
+	<polygon class="st151" points="380.1,157 402.8,145.2 433.7,162 430.5,165.8 402.8,156.8 	"/>
+	<polygon class="st157" points="376,160.5 351.5,164.7 375,178 	"/>
+	<polygon class="st158" points="378,162 386.8,185.2 376,179.7 	"/>
+	<polygon class="st154" points="380.1,162 389.4,168.2 388.1,185.2 	"/>
+	<polygon class="st159" points="390.8,173.6 396.2,185.2 389.4,186.2 	"/>
+	<polygon class="st160" points="469,126.7 454.7,114 417.2,129 	"/>
+	<polygon class="st161" points="467.8,129 450.7,138.3 415,131.7 	"/>
+	<polygon class="st162" points="450.7,114 399.3,98.7 410.8,130.7 	"/>
+	<polygon class="st162" points="399.3,102.3 378,122.7 409,130.7 	"/>
+	<path class="st163" d="M396.2,102.3c-0.9-1.7-37.9-3.7-37.9-3.7l15.7,22.8L396.2,102.3z"/>
+	<polygon class="st164" points="356.7,102.3 347.3,121.5 369.7,121.5 	"/>
+	<polygon class="st165" points="351.5,102.3 311.7,129 345.3,121.5 	"/>
+	<polygon class="st160" points="565.5,126.7 577,111.9 619,130.7 	"/>
+	<polygon class="st161" points="565.5,129 583.7,139.7 612.4,132 	"/>
+	<polygon class="st166" points="580.7,110.1 617.8,129 628,101 	"/>
+	<polygon class="st162" points="631.2,103.7 650.5,124 621.8,130.7 	"/>
+	<polygon class="st163" points="631.2,101 674,97.3 652.6,123.7 	"/>
+	<polygon class="st164" points="676,98.7 686,121.3 656.5,123.7 	"/>
+	<polygon class="st165" points="682.3,101 721,126.7 687.7,121.3 	"/>
+</g>
+
+</svg>
